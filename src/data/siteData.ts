@@ -38,11 +38,11 @@ export type Testimonial = {
 };
 
 export const siteProfile = {
-  name: "Amanuel Temesgen",
+  name: "Edlawit Beyene",
   role: "Fullstack & Mobile Developer",
   location: "Addis Ababa, Ethiopia",
-  email: "amanueltemesgen62@gmail.com",
-  phone: "+251940969172",
+  email: "edlawitbeyene21@gmail.com",
+  phone: "+251963152638",
   profileImageHeader: "/assets/img/profile/pic.jpg",
   profileImageAbout: "/assets/img/profile/pic.jpg",
   heroImage: "/assets/img/profile/profile-square-13.jpg",
