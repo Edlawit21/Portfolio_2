@@ -43,8 +43,8 @@ export const siteProfile = {
   location: "Addis Ababa, Ethiopia",
   email: "amanueltemesgen62@gmail.com",
   phone: "+251940969172",
-  profileImageHeader: "/assets/img/profile/profile-square-14.jpg",
-  profileImageAbout: "/assets/img/profile/profile-square-15.jpg",
+  profileImageHeader: "/assets/img/profile/pic.jpg",
+  profileImageAbout: "/assets/img/profile/pic.jpg",
   heroImage: "/assets/img/profile/profile-square-13.jpg",
 };
 
